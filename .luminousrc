@@ -1,0 +1,9 @@
+{
+    "mongoConnection": "mongodb://localhost:27017/luminousTestDb",
+    "modules": {
+        "metadata": "luminous-mongo-metadata"
+    },
+    "metadata": {
+        "typeCollection": "/type"
+    }
+}

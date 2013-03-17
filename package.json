@@ -1,0 +1,25 @@
+{
+  "name": "luminous-mongo-metadata",
+  "version": "0.0.2",
+  "description": "=======================",
+  "main": "lib/luminous-mongo-metadata.js",
+  "dependencies": {
+    "luminous-base": "~0.0.2",
+    "mongodb": "~1.2.13"
+  },
+  "devDependencies": {
+    "jasmine-node": "~1.3.0",
+    "luminous-server-config": "~0.0.2"
+  },
+  "scripts": {
+    "test": "jasmine-node --forceexit specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvantil/luminous-mongo-metadata"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "234a9b106f276a6b7da289e57850b576b66be7ca"
+}
